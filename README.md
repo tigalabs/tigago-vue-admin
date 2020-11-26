@@ -1,8 +1,8 @@
 # tiga-admin
 
 #### 介绍
-后端：GoFrame框架
-前端：Vue+ElementUI
+后端：Tigago框架
+前端：Vue+TigaUI
 
 #### 软件架构
 软件架构说明
