@@ -1,38 +1,126 @@
-# tiga-admin
+<p align="center">
+  <!-- Set your project logo image here -->
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="40%" /><br/>
+</p>
+<p align="center">
+<!-- Fill in your project slogan here, preferably a short sentence. -->
+</p>
 
-#### 介绍
-后端：GoFrame框架
-前端：Vue+ElementUI
+<span id="nav-1"></span>
 
-#### 软件架构
-软件架构说明
+## 🌏 Internationalization
 
+<!-- Here is the multilingual list -->
 
-#### 安装教程
+[English](README.md) | [简体中文](README.zh-Hans.md)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+<span id="nav-2"></span>
 
-#### 使用说明
+## 📚 Contents
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+<details>
+  <summary>Click me to Open/Close the directory listing</summary>
 
-#### 参与贡献
+- [Internationalization](#nav-1)
+- [Contents](#nav-2)
+- [Introductions](#nav-3)
+  - [Official Website](#nav-3-1)
+- [Graphic Demo](#nav-4)
+- [Features](#nav-5)
+- [Architecture](#nav-6)
+- [Getting Started](#nav-7)
+- [Authors](#nav-8)
+- [Contributors](#nav-9)
+  - [Community Exchange](#nav-9-1)
+- [Part Of Users](#nav-10)
+<!-- - [Release History](CHANGE.md) -->
+- [Donators](#nav-11)
+- [Sponsors](#nav-12)
+- [Thanks](#nav-13)
+- [License](#nav-14)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+</details>
 
+<span id="nav-3"></span>
 
-#### 码云特技
+## ℹ️ Introductions
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+<!-- Fill in the detailed introduction about your project here -->
+
+<span id="nav-3-1"></span>
+
+### 🔔 Official Website
+
+<!-- Fill in the official website address of your project here, including homepage, documentation, etc. -->
+
+<span id="nav-4"></span>
+
+## 🌅 Graphic Demo
+
+<!-- Place the demo of your project here, which can be a specific visit address, picture screenshot, Gif or video, etc. -->
+
+<span id="nav-5"></span>
+
+## ✳️ Features
+
+<!-- Fill in the features of your project here, usually a list. -->
+
+<span id="nav-6"></span>
+
+## 🍊 Architecture
+
+<!-- Fill in your project architecture diagram or description here, and you can place the project directory description -->
+
+<span id="nav-7"></span>
+
+## 💎 Getting Started
+
+<!-- Write the detailed instructions for the project here, and tell users how to use your project. -->
+
+<span id="nav-8"></span>
+
+## 🙆 Authors
+
+<!-- Fill in the relevant information of the project author here -->
+
+<span id="nav-9"></span>
+
+## 🌟 Contributors
+
+<!-- Fill in the list of contributors to the project here, usually a list, of course, you can also use pictures instead. -->
+
+<span id="nav-9-1"></span>
+
+### 😵 Community Exchange
+
+<!-- Fill in the online and offline communication address of the project here, which can be an instant messaging group, a community, or a discussion group, etc. -->
+
+<span id="nav-10"></span>
+
+## 👼 Part Of Users
+
+<!-- Fill in the user list of the project here, and tell visitors which users are using your project. -->
+
+<span id="nav-11"></span>
+
+## ☕ Donators
+
+<!-- Fill in the list of donors here -->
+
+<span id="nav-12"></span>
+
+## 💰 Sponsors
+
+<!-- Fill in the list of sponsors here -->
+
+<span id="nav-13"></span>
+
+## 👏 Thanks
+
+<!-- Fill in the list of special thanks here, which can be anything or a person. -->
+
+<span id="nav-14"></span>
+
+## ©️ License
+
+[License MIT](LICENSE)
